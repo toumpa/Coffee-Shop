@@ -1,0 +1,10 @@
+1,Burger,food,5,10
+2,Salad,food,6,5
+3,Club-Sandwich,food,5,10
+4,Tacos,food,4,10
+5,Sushi,food,7,5
+6,Orange Juice,drink,3,5
+7,Hot Coffee,drink,2,5
+8,Ice Coffee,drink,2.5,5
+9,Ice-Tea,drink,3,3
+10,Coca-Cola,drink,2.5,3
